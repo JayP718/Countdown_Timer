@@ -15,7 +15,7 @@
       },
       {
         "type": "select",
-        "options": ["Small", "Medium", "Large"],
+        "options": ["Small", "Medium", "Large","xx-large","xxx-large"],
         "defaultValue": "Large",
         "key": "size",
         "label": "Size"
